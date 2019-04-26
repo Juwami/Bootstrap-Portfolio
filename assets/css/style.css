@@ -24,7 +24,7 @@ body {
 
 }
 
-.container {
+.container, .container-fluid {
     background-color: white;
 }
 
@@ -32,6 +32,6 @@ body {
     background-color: white;
 }
 
-img {
-    float:left;
+.nav-link-container .nav-item:last-child {
+    padding-right: 0;
 }
