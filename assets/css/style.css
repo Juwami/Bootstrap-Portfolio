@@ -8,6 +8,7 @@ p, .nav-item {
 
 p {
     font-size: 18px;
+    color: teal;
 }
 
 .navbar-brand.h1 {
@@ -34,4 +35,21 @@ body {
 
 .nav-link-container .nav-item:last-child {
     padding-right: 0;
+}
+
+.btn {
+    background-color: teal;
+    color: white;
+}
+
+.position-absolute {
+    background-color: teal;
+    color: white;
+    bottom: 100px;
+}
+
+.sticky-footer {
+    background-color: grey;
+    color: white;
+
 }
