@@ -45,11 +45,11 @@ body {
 .position-absolute {
     background-color: teal;
     color: white;
-    bottom: 100px;
+    bottom: 10px;
 }
 
-.sticky-footer {
+.fixed-bottom {
     background-color: grey;
     color: white;
-
 }
+
