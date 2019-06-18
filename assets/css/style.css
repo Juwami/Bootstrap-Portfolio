@@ -9,7 +9,7 @@ p,
 }
 
 p {
-    font-size: 18px;
+    font-size: 22px;
     color: teal;
 }
 
@@ -58,4 +58,8 @@ body {
 .portfolioImages {
     height: 200px;
     width: 250px;
+}
+
+.contact-form {
+    font-size: 22px;
 }
