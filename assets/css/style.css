@@ -23,7 +23,7 @@ p {
 }
 
 body {
-    background-image: url(../images/prism.png)
+    background-image: url(../images/prism.png);
 }
 
 .container,
