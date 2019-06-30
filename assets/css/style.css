@@ -56,11 +56,6 @@ body {
     bottom: 10px;
 }
 
-.fixed-bottom {
-    background-color: grey;
-    color: white;
-}
-
 .portfolioImages {
     height: 200px;
     width: 250px;
