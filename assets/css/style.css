@@ -22,12 +22,18 @@ p {
     color: teal;
 }
 
-body {
-    background-image: url(../images/prism.png);
+html {
+    height: 100%;
 }
 
-.container,
-.container-fluid {
+body {
+    background-image: url(../images/prism.png);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
     background-color: white;
 }
 
@@ -62,4 +68,14 @@ body {
 
 .contact-form {
     font-size: 22px;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.footer {
+    background-color: grey;
+    color: white;
+    flex-shrink: 0;
 }
